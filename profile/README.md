@@ -1,4 +1,4 @@
-<img src="https://github.com/almure-inc/.github/raw/main/profile/assets/logo-banner.png" alt="Almure" width="100%" />
+<img src="https://github.com/almure-inc/.github/raw/main/profile/assets/logo-banner.png?v=2" alt="Almure" width="100%" />
 
 ## Security infrastructure that opens enterprise confidential data to AI Agents
 
